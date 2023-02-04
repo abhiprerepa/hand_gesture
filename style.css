@@ -1,0 +1,34 @@
+body
+{
+  color: white;
+  background-color: rgb(165, 69, 255);
+}
+
+span
+{
+  font-size: 30px;
+}
+
+.object_name
+{
+    font-size: 40px;
+}
+
+.gesture_icon
+{
+    font-size: 48px;
+}
+
+.heading
+{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+label {
+    font-size: 14px;
+    color: black;
+    padding: 6px;
+    border-radius: 10px;
+    background-color: white;
+}
